@@ -8,7 +8,7 @@
 <img width="800" alt="Captura de Tela 2023-09-09 às 00 47 35" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/781d676d-6609-493d-97ab-ba641135ec0f">
 <img width="800" alt="Captura de Tela 2023-09-09 às 00 48 28" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/df38017b-9a65-4bb2-834c-a65278427458">
 
-</br></br>
+<hr/>
 
 🔸 **Demo:** https://drivent-frontend-kohl.vercel.app/
 
