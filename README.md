@@ -1,24 +1,24 @@
 # Driven.t
 
-<img width="800" alt="Captura de Tela 2023-09-09 às 00 35 36" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/e3bb4593-d756-4571-ab73-5de3b7878f3a">
-<img width="800" alt="Captura de Tela 2023-09-09 às 00 42 57" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/13dd7836-08f6-4764-818f-31a4136c013a">
-<img width="800" alt="Captura de Tela 2023-09-09 às 00 43 34" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/245a36a6-8896-4bab-a360-79fbdd731503">
-<img width="800" alt="Captura de Tela 2023-09-09 às 00 44 13" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/ab52f288-c3cd-4969-b874-8d4b6013d1e5">
-<img width="800" alt="Captura de Tela 2023-09-09 às 00 44 29" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/78b8d399-ea2d-487f-b728-917992ee1281">
-<img width="800" alt="Captura de Tela 2023-09-09 às 00 47 35" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/781d676d-6609-493d-97ab-ba641135ec0f">
-<img width="800" alt="Captura de Tela 2023-09-09 às 00 48 28" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/df38017b-9a65-4bb2-834c-a65278427458">
+## ℹ️ About
+
+The Driven.t project's mission is to create an event management system, focusing on providing a customizable application for each specific event. Using the White Label concept, Driven.t allows customers to have a unique application for each event they want to manage. The system has a timer that releases access on the start date of event registration and offers features such as registration (online or in person), choice of accommodation for in-person events, payment options, selection of activities at the event and the issuance of certificates of participation. The application is a web application and its development can be started by following the configuration and execution instructions in the development environment provided in the project repository.
+
+<hr/>
+
+<img width="100%" alt="Captura de Tela 2023-09-09 às 00 35 36" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/e3bb4593-d756-4571-ab73-5de3b7878f3a">
+<img width="100%" alt="Captura de Tela 2023-09-09 às 00 42 57" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/13dd7836-08f6-4764-818f-31a4136c013a">
+<img width="100%" alt="Captura de Tela 2023-09-09 às 00 43 34" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/245a36a6-8896-4bab-a360-79fbdd731503">
+<img width="100%" alt="Captura de Tela 2023-09-09 às 00 44 13" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/ab52f288-c3cd-4969-b874-8d4b6013d1e5">
+<img width="100%" alt="Captura de Tela 2023-09-09 às 00 44 29" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/78b8d399-ea2d-487f-b728-917992ee1281">
+<img width="100%" alt="Captura de Tela 2023-09-09 às 00 47 35" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/781d676d-6609-493d-97ab-ba641135ec0f">
+<img width="100%" alt="Captura de Tela 2023-09-09 às 00 48 28" src="https://github.com/natividadesusana/drivent-frontend/assets/95102911/df38017b-9a65-4bb2-834c-a65278427458">
 
 <hr/>
 
 🔸 **Demo:** https://drivent-frontend-kohl.vercel.app/
 
 🔸 **Driven.t Organization:** https://github.com/drivent-ed
-
-<hr/>
-
-## ℹ️ About
-
-The Driven.t project's mission is to create an event management system, focusing on providing a customizable application for each specific event. Using the White Label concept, Driven.t allows customers to have a unique application for each event they want to manage. The system has a timer that releases access on the start date of event registration and offers features such as registration (online or in person), choice of accommodation for in-person events, payment options, selection of activities at the event and the issuance of certificates of participation. The application is a web application and its development can be started by following the configuration and execution instructions in the development environment provided in the project repository.
 
 <hr/>
 
